@@ -1,4 +1,4 @@
-package firstweektask1;
+package firstweektask1.firstweektask1;
 
 import java.util.*;
 import java.lang.*;
