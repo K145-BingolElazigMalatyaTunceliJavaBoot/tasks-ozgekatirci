@@ -1,6 +1,6 @@
 package firstweektask1.secondweektask2;
 
-public class Sedan extends Car implements RentACar{
+public class Sedan extends Car implements RentACarService {
     @Override
     public boolean isDailyRent() {
         return true;
