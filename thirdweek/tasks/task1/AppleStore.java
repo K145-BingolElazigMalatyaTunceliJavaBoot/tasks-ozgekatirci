@@ -1,6 +1,6 @@
-package firstweektask1.thirdweek.task1;
+package firstweektask1.thirdweek.tasks.task1;
 
-public class AppleStore extends Store implements FruitShoppingService{
+public class AppleStore extends Store implements FruitShoppingService {
     Apple a=new Apple();
 
     @Override

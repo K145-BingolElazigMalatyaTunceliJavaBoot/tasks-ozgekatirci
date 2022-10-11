@@ -1,6 +1,6 @@
-package firstweektask1.thirdweek.task1;
+package firstweektask1.thirdweek.tasks.task1;
 
-public class CherryStore extends Store implements FruitShoppingService{
+public class CherryStore extends Store implements FruitShoppingService {
     Cherry c=new Cherry();
 
 

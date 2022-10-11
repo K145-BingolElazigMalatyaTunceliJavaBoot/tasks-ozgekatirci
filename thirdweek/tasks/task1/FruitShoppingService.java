@@ -1,4 +1,4 @@
-package firstweektask1.thirdweek.task1;
+package firstweektask1.thirdweek.tasks.task1;
 
 public interface FruitShoppingService {
     void addFruit(int quantity);

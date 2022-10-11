@@ -1,4 +1,4 @@
-package firstweektask1.thirdweek.task1;
+package firstweektask1.thirdweek.tasks.task1;
 
 public abstract class Fruit {
     private  int quantity;
